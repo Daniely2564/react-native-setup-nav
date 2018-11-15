@@ -1,0 +1,1 @@
+export const RENDER_CHAT_ROOMS = 'RENDER_CHAT_ROOMS';

@@ -1,0 +1,1 @@
+export { getChatRooms } from './chatRoomAction';
